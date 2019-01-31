@@ -1,21 +1,23 @@
-Pushwoosh iOS SDK
-=====================
+# Initial page
 
-[![GitHub release](https://img.shields.io/github/release/Pushwoosh/pushwoosh-ios-sdk.svg?style=flat-square)](https://github.com/Pushwoosh/pushwoosh-ios-sdk/releases) 
-[![CocoaPods compatible](https://img.shields.io/cocoapods/v/Pushwoosh.svg)](https://cocoapods.org/?q=pushwoosh)
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+## Getting Super Powers
 
-[![Guide](https://img.shields.io/badge/guide-latest-brightgreen.svg?style=flat-square)](http://docs.pushwoosh.com/docs/native-ios-sdk)
-[![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat-square)](https://github.com/Pushwoosh/pushwoosh-ios-sdk/tree/master/Documentation)
+Becoming a super hero is a fairly straight forward process:
 
-The guide for SDK integration is available on Pushwoosh website:  
-http://docs.pushwoosh.com/docs/native-ios-sdk
+```
+$ give me super-powers
+```
 
-The sample project is available here:  
-https://github.com/Pushwoosh/pushwoosh-ios-sdk/tree/master/Samples/iPhone
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
 
-Documentation:
-https://github.com/Pushwoosh/pushwoosh-ios-sdk/tree/master/Documentation
+Once you're strong enough, save the world:
 
-Pushwoosh team
-http://www.pushwoosh.com
+```
+// Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+
+
+
