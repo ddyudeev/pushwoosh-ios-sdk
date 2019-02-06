@@ -20,11 +20,11 @@ This method retrieves the parameter and passes it to the **function**
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="parameter1" type="array" required=true %}
+{% api-method-parameter name="parameter" type="array" required=true %}
 parameter for **main** function
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="parameter2" type="object" required=false %}
+{% api-method-parameter name="parameter.timezone" type="object" required=false %}
 optional parameter for main function  
   
   
